@@ -96,7 +96,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 -->
 <html>
 	<head>
-		<title>Dirty Deeds Done Dirt Cheap Booking</title>
+		<title>Dirty Deeds Done Dirt Cheap Login</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
