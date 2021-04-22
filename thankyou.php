@@ -14,7 +14,7 @@ $mail->Port = 587; // TLS only
 $mail->SMTPSecure = 'tls'; // ssl is deprecated
 $mail->SMTPAuth = true;
 $mail->Username = 'labashousky@gmail.com'; // email
-$mail->Password = 'mytxi6-koXjyx-reqtar'; // password
+$mail->Password = 'ye'; // password
 $mail->setFrom('labashousky@gmail.com', 'Dirty Deeds Cleaning Service'); // From email and name
 $mail->addAddress('labashouskym18@students.ecu.edu', 'Mr. Labashousky'); // to email and name
 $mail->Subject = 'Dirty Deeds Cleaning Service Appointment';
